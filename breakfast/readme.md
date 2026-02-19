@@ -12,7 +12,7 @@ This dish was found by Jacob's mom back in 2010 and has been refined and used fo
 | Total Time | 75 minutes |
 | Servings | 4 |
 | Difficulty | Medium |
-| Tags | Pastry, Lactose Free |
+| Tags | Pastry |
 
 <!-- Note the fields in the markdown table -->
 
@@ -57,4 +57,4 @@ Making this recipe with almond milk and dairy free butter makes it lactose free.
 Jacob's mom, 
 
 Your Team 8
-Yours Jacob, Lena
+Yours Jacob, Lena, Karolline
