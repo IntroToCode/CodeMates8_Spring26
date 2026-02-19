@@ -34,14 +34,14 @@ This dish was found by Jacob's mom back in 2010 and has been refined and used fo
 ### Steps for preparation:
 
 Steps:
-Night Before:
+The Night Before:
 
 1. Combine non-bread items of Break Soak ingredients in bowl and mix
 2. Slice Bread and add bread to gallon freezer bag
 3. Pour mixture into freezer bag full of bread
 4. Let soak in fridge overnight
 
-Next morning:
+The Morning Of:
 1. Pre-Heat Oven to 350
 2. Mix Crumb Topping ingredients in bowl
 3. Add Bread Soak to baking dish
@@ -57,4 +57,4 @@ Making this recipe with almond milk and dairy free butter makes it lactose free.
 Jacob's mom, 
 
 Your Team 8
-Yours Jacob, Lena, Karolline
+Yours Jacob, Lena, Karolline, Lauren
