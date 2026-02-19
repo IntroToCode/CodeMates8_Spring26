@@ -7,7 +7,7 @@ This dish was found by Jacob's mom back in 2010 and has been refined and used fo
 
 | Field | Info |
 |-------|------|
-| Prep Time | 30 minutes |
+| Prep Time | 35 minutes |
 | Cook Time | 45 minutes |
 | Total Time | 75 minutes |
 | Servings | 4 |
@@ -57,4 +57,4 @@ Making this recipe with almond milk and dairy free butter makes it lactose free.
 Jacob's mom, 
 
 Your Team 8
-Yours Jacob, Lena, Karolline, Lauren
+Yours Jacob, Lena, Karolline, Lauren, Atacan
