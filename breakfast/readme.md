@@ -1,7 +1,7 @@
 # Replace with recipe name
 
 ## Description
-This dish was found by Jacob's mom back in 2010 and has been refined and used for holidays every since.
+This dish was found by Jacob's mom back in 2010 and has been refined and used for holidays ever since.
 
 ## Stats
 
