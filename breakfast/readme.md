@@ -54,4 +54,4 @@ Next morning:
 Making this recipe with almond milk and dairy free butter makes it lactose free.  Substituting eggs and careful selection of bread could make it vegan too!
 
 ### Author(s):
-Jacob's mom
+Jacob's mom, Jacob
