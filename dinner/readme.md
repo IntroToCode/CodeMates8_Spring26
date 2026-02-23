@@ -20,26 +20,16 @@ A cozy Brazilian-style chicken soup made with shredded chicken, rice, potatoes, 
 
 - [ ] 1.5 lbs (about 2) boneless skinless chicken breasts (or thighs)
 - [ ] 1 Tbsp olive oil, plus more for drizzling
-
-2 Tbsp diced onion (or ½ small onion), plus 2 garlic cloves, minced
-
-3 Roma tomatoes, halved and seeded (or 1 Tbsp tomato paste)
-
-1–2 sprigs fresh thyme
-
-1.5 cups chicken stock or water + 2 tsp chicken bouillon
-
-3 large carrots, peeled and cut into rounds
-
-1 celery stalk, diced
-
-2 potatoes, peeled and diced
-
-½ cup uncooked white rice
-
-6 cups water (for finishing the soup)
-
-Salt and pepper to taste
+- [ ] 2 Tbsp diced onion (or ½ small onion), plus 2 garlic cloves, minced
+- [ ] 3 Roma tomatoes, halved and seeded (or 1 Tbsp tomato paste)
+- [ ] 1–2 sprigs fresh thyme
+- [ ] 1.5 cups chicken stock or water + 2 tsp chicken bouillon
+- [ ] 3 large carrots, peeled and cut into rounds
+- [ ] 1 celery stalk, diced
+- [ ] 2 potatoes, peeled and diced
+- [ ] ½ cup uncooked white rice
+- [ ] 6 cups water (for finishing the soup)
+- [ ] Salt and pepper to taste
 
 ### Steps for preparation:
 
