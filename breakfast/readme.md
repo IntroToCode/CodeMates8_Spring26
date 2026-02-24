@@ -53,6 +53,8 @@ The Morning Of:
 ### Notes:
 Making this recipe with almond milk and dairy free butter makes it lactose free.  Substituting eggs and careful selection of bread could make it vegan too!
 
+### Beverage Recommendation:
+Black Turkish Tea served hot in an authentic hourglass shaped elegant glasses.
 ### Author(s):
 Jacob's mom, 
 
