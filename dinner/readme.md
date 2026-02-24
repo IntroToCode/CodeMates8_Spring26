@@ -7,10 +7,10 @@ A cozy Brazilian-style chicken soup made with shredded chicken, rice, potatoes, 
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 10 minutes |
-| Cook Time | e.g. 35 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
+| Prep Time | 10 minutes |
+| Cook Time | 35 minutes |
+| Total Time | 45 minutes |
+| Servings | 4 |
 | Difficulty | Medium |
 | Tags | Brazilian, soup, one-pot, comfort food, family-friendly|
 
@@ -72,3 +72,4 @@ If you prefer a thicker soup, let it simmer a few extra minutes uncovered.
 This soup stores well and thickens in the fridge. Add water when reheating if needed.
 
 ### Author(s): Karolline
+Lauren
