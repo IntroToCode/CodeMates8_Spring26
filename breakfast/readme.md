@@ -1,4 +1,4 @@
-# Replace with recipe name
+# French Toast Casserole
 
 ## Description
 This dish was found by Jacob's mom back in 2010 and has been refined and used for holidays ever since.
@@ -56,5 +56,5 @@ Making this recipe with almond milk and dairy free butter makes it lactose free.
 ### Author(s):
 Jacob's mom, 
 
-Your Team 8
-Yours Jacob, Lena, Karolline, Lauren, Atacan
+Team 8:
+Jacob, Lena, Karolline, Lauren, Atacan
