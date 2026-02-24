@@ -8,10 +8,10 @@ Golden, crispy-on-the-outside, fluffy-on-the-inside fries made from frozen strai
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 5 minutes |
-| Cook Time | e.g. 10 minutes |
-| Total Time | e.g. 15 minutes |
-| Servings | e.g. 4 |
+| Prep Time | 5 minutes |
+| Cook Time | 10 minutes |
+| Total Time | 15 minutes |
+| Servings | 4 |
 | Difficulty | Easy |
 | Tags | side dish, quick, freezer-friendly, crowd-pleaser|
 
@@ -56,5 +56,5 @@ Use a thermometer. Guessing oil temperature is how you end up with limp fries.
 
 If baking instead, follow package instructions and use convection if available for better crisping.
 
-### Author(s): Atacan, Karolline
+### Author(s): Atacan, Karolline, Lauren
 
