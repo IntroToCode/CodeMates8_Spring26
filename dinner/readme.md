@@ -72,7 +72,7 @@ If you prefer a thicker soup, let it simmer a few extra minutes uncovered.
 This soup stores well and thickens in the fridge. Add water when reheating if needed.
 
 ### Beverage Recommendation:
-Still water at room temperature
+Still water at room temperature, or ice cold sparkling water.
 
 ### Author(s): Karolline
 Lauren, Atacan
