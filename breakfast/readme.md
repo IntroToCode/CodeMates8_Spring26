@@ -54,7 +54,7 @@ The Morning Of:
 Making this recipe with almond milk and dairy free butter makes it lactose free.  Substituting eggs and careful selection of bread could make it vegan too!
 
 ### Beverage Recommendation:
-Black Turkish Tea served hot in an authentic hourglass shaped elegant glasses.
+Black Turkish Tea served hot in an authentic hourglass shaped elegant glasses, presented on a little tray.
 ### Author(s):
 Jacob's mom, 
 
