@@ -56,7 +56,7 @@ Use a thermometer. Guessing oil temperature is how you end up with limp fries.
 
 If baking instead, follow package instructions and use convection if available for better crisping.
 
-### Author(s): Atacan, Karolline
+### Author(s): Atacan, Karolline, Lena
 
 ## Description
 
