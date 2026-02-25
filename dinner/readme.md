@@ -13,6 +13,7 @@ A cozy Brazilian-style chicken soup made with shredded chicken, rice, potatoes, 
 | Servings | 4 |
 | Difficulty | Medium |
 | Tags | Brazilian, soup, one-pot, comfort food, family-friendly|
+| Spice Level | 🌶️ |
 
 <!-- Note the fields in the markdown table -->
 
