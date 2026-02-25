@@ -73,6 +73,7 @@ Golden, crispy-on-the-outside, fluffy-on-the-inside fries made from frozen strai
 | Servings | e.g. 4 |
 | Difficulty | Easy |
 | Tags | side dish, quick, freezer-friendly, crowd-pleaser|
+| Spice Level | 1-5🌶️ depending on spice 🚫 for no spice |
 
 ### Ingredients:
 - [ ] 1 lb frozen straight-cut fries (do not thaw)
@@ -131,6 +132,7 @@ If baking instead, follow package instructions and use convection if available f
 | Servings | e.g. 4 |
 | Difficulty | Easy / Medium / Hard |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Spice Level | 1-5🌶️ depending on spice 🚫 for no spice |
 
 <!-- Note the fields in the markdown table -->
 
