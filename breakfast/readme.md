@@ -13,6 +13,7 @@ This dish was found by Jacob's mom back in 2010 and has been refined and used fo
 | Servings | 4 |
 | Difficulty | Medium |
 | Tags | Pastry |
+| Spice Level | 🚫 |
 
 <!-- Note the fields in the markdown table -->
 
