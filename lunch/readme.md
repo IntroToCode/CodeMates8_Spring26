@@ -150,6 +150,6 @@ If baking instead, follow package instructions and use convection if available f
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Beverage Recommendation:
-Diet Coke, served cold with ice.
+Coke Zero, served cold with ice.
 
 ### Author(s): Atacan
