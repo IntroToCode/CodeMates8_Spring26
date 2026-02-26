@@ -55,6 +55,6 @@ Always fry from frozen. Thawing makes them soggy and oil-logged.
 
 Use a thermometer. Guessing oil temperature is how you end up with limp fries.
 
-If baking instead, follow package instructions and use convection if available for better crisping.
+If baking instead, follow package instructions and use convection if available for better crisping. Or you try to use an Airfryer - if you want to opt for a healthier version.
 
 ### Author(s): Atacan, Karolline, Lauren, Jacob, Lena
