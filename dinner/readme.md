@@ -72,6 +72,10 @@ If you prefer a thicker soup, let it simmer a few extra minutes uncovered.
 
 This soup stores well and thickens in the fridge. Add water when reheating if needed.
 
+### Beverage Recommendation:
+Ice cold sparkling water.
+
 ### Author(s): Karolline
 Lauren
 Lena
+Atacan
