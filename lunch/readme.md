@@ -148,6 +148,9 @@ If baking instead, follow package instructions and use convection if available f
 3. Step three.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
+### Beverage Recommendation:
+Coke Zero or Diet Coke, served cold with ice.
+
 ### Notes:
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
