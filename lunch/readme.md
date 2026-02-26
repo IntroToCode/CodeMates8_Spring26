@@ -11,13 +11,13 @@ Golden, crispy-on-the-outside, fluffy-on-the-inside fries made from frozen strai
 | Prep Time | 5 minutes |
 | Cook Time | 10 minutes |
 | Total Time | 15 minutes |
-| Servings | 4 |
+| Servings | 8 |
 | Difficulty | Easy |
 | Tags | side dish, quick, freezer-friendly, crowd-pleaser|
 | Spice Level | 🌶️🌶️🌶️ (depending on which additional spices you add) |
 
 ### Ingredients:
-- [ ] 1 lb frozen straight-cut fries (do not thaw)
+- [ ] 2 lb frozen straight-cut fries (do not thaw)
 - [ ] Neutral frying oil (canola, vegetable, or peanut), enough for deep frying
 - [ ] Salt, to taste
 - [ ] Optional: black pepper, paprika, garlic powder, parmesan, chopped parsley
@@ -70,13 +70,13 @@ Golden, crispy-on-the-outside, fluffy-on-the-inside fries made from frozen strai
 | Prep Time | e.g. 5 minutes |
 | Cook Time | e.g. 10 minutes |
 | Total Time | e.g. 15 minutes |
-| Servings | e.g. 4 |
+| Servings | e.g. 8 |
 | Difficulty | Easy |
 | Tags | side dish, quick, freezer-friendly, crowd-pleaser|
 | Spice Level | 1-5🌶️ depending on spice 🚫 for no spice |
 
 ### Ingredients:
-- [ ] 1 lb frozen straight-cut fries (do not thaw)
+- [ ] 2 lb frozen straight-cut fries (do not thaw)
 - [ ] Neutral frying oil (canola, vegetable, or peanut), enough for deep frying
 - [ ] Salt, to taste
 - [ ] Optional: black pepper, paprika, garlic powder, parmesan, chopped parsley
@@ -129,7 +129,7 @@ If baking instead, follow package instructions and use convection if available f
 | Prep Time | e.g. 15 minutes |
 | Cook Time | e.g. 30 minutes |
 | Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
+| Servings | e.g. 8 |
 | Difficulty | Easy / Medium / Hard |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
 | Spice Level | 1-5🌶️ depending on spice 🚫 for no spice |
