@@ -52,10 +52,10 @@ The Morning Of:
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
-Making this recipe with almond milk and dairy free butter makes it lactose free.  Substituting eggs and careful selection of bread could make it vegan too!
+Making this recipe with almond milk and dairy free butter makes it lactose free. Substituting eggs and careful selection of bread could make it vegan too!
 
 ### Beverage Recommendation:
-Black Turkish Tea served hot in an authentic hourglass shaped elegant glasses, presented on a copper tray.
+Black Turkish Tea served hot in an authentic elegant, hourglass-shaped glass, presented on a copper tray.
 
 ### Author(s):
 Jacob's mom, 
