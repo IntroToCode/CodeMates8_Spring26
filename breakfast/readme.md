@@ -10,7 +10,7 @@ This dish was found by Jacob's mom back in 2010 and has been refined and used fo
 | Prep Time | 35 minutes |
 | Cook Time | 45 minutes |
 | Total Time | 75 minutes |
-| Servings | 4 |
+| Servings | 8 |
 | Difficulty | Medium |
 | Tags | Pastry |
 | Spice Level | 🚫 |
@@ -19,18 +19,18 @@ This dish was found by Jacob's mom back in 2010 and has been refined and used fo
 
 ### Ingredients:
 #### Bread Soak
-- [ ] 1 Loaf of French Bread
-- [ ] 3-4 Eggs
-- [ ] 1.5 Cups of Almond Milk
-- [ ] 1/4 Cup of Sugar
-- [ ] 2 Tablespoons of Cinnamon
-- [ ] 1 Teaspoon of Vanilla
+- [ ] 2 Loaf of French Bread
+- [ ] 6-8 Eggs
+- [ ] 3 Cups of Almond Milk
+- [ ] 2/4 Cup of Sugar
+- [ ] 4 Tablespoons of Cinnamon
+- [ ] 2 Teaspoon of Vanilla
 
 #### Crumb Topping
-- [ ] 1/4 Cup of Butter (dairy free, if desired)
-- [ ] 1/4 Cup of Flour
-- [ ] 1/4 Cup of Brown Sugar
-- [ ] 2 Tablespoons of Cinnamon
+- [ ] 2/4 Cup of Butter (dairy free, if desired)
+- [ ] 2/4 Cup of Flour
+- [ ] 2/4 Cup of Brown Sugar
+- [ ] 4 Tablespoons of Cinnamon
 
 ### Steps for preparation:
 
@@ -52,7 +52,10 @@ The Morning Of:
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
-Making this recipe with almond milk and dairy free butter makes it lactose free.  Substituting eggs and careful selection of bread could make it vegan too!
+Making this recipe with almond milk and dairy free butter makes it lactose free. Substituting eggs and careful selection of bread could make it vegan too!
+
+### Beverage Recommendation:
+Black Turkish Tea served hot in an authentic elegant, hourglass-shaped glass, presented on a copper tray.
 
 ### Author(s):
 Jacob's mom, 
